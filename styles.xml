@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.ProjeNefes" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#ffb020</item>
+        <item name="android:windowBackground">#0a0c0a</item>
+    </style>
+</resources>
